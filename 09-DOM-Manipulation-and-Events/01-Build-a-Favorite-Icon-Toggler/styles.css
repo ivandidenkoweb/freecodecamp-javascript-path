@@ -1,0 +1,23 @@
+.filled {
+    color: red;
+}
+
+.item-list {
+    text-align: center;
+    list-style: none;
+}
+
+.item-list li {
+    border-bottom: 1px solid rgb(182, 168, 168);
+}
+
+button {
+    background-color: transparent;
+    border: none;
+
+    font-size: 18px;
+}
+
+button {
+    cursor: pointer;
+}
