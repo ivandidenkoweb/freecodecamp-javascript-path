@@ -58,3 +58,18 @@
 3.  **Voting System** — Управління голосуванням через `Map/Set`.
 4.  **Bank Account Management** — Система управління банківськими транзакціями.
 5.  **Weather App** — Додаток прогнозу погоди з використанням зовнішнього API.
+
+## 🏆 Certifications
+
+Після успішного завершення всіх модулів та фінальних проектів, я здобув офіційну сертифікацію від **freeCodeCamp**. Це підтверджує мої знання в алгоритмах, структурах даних та сучасному JavaScript (ES6+).
+
+### JavaScript Algorithms and Data Structures (Beta)
+
+<p align="center">
+  <img src="./assets/certificate.png" alt="freeCodeCamp Certificate" width="800">
+  <br>
+  <a href="https://www.freecodecamp.org/certification/fccfdbb7516-6fb6-4171-bd9c-82a23cc2202c/javascript-v9">🔗 Переглянути верифіковану версію на freeCodeCamp.org</a>
+</p>
+
+---
+*Created by [Ivan Didenko] — 2026*
