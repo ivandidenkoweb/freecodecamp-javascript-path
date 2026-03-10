@@ -53,11 +53,11 @@
 
 *Ці проекти об'єднують усі навички, отримані під час курсу:*
 
-1.  📝 [**Markdown-to-HTML-Converter**](./Markdown-to-HTML-Converter)
-2.  🥁 [**Drum-Machine**](./Drum-Machine)
-3.  🗳️ [**Voting-System**](./Voting-System)
-4.  🏦 [**Bank-Account-Management**](./Bank-Account-Management)
-5.  ☁️ [**Weather-App**](./Weather-App)
+1.  📝 [**Markdown-to-HTML-Converter**](./Certification-Projects/01-Build-a-Markdown-to-HTML-Converter/)
+2.  🥁 [**Drum-Machine**](./Certification-Projects/02-Build-a-Drum-Machine/)
+3.  🗳️ [**Voting-System**](./Certification-Projects/03-Build-a-Voting-System/)
+4.  🏦 [**Bank-Account-Management**](./Certification-Projects/04-Build-a-Bank-Account-Management-Program/)
+5.  ☁️ [**Weather-App**](./Certification-Projects/05-Build-a-Weather-App/)
 
 ---
 
